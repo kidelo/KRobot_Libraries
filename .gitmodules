@@ -1,0 +1,21 @@
+[submodule "KRobot_TaskScheduler"]
+	path = KRobot_TaskScheduler
+	url = https://github.com/kidelo/KRobot_TaskScheduler.git
+[submodule "KRobot_IRremote"]
+	path = KRobot_IRremote
+	url = https://github.com/kidelo/KRobot_IRremote.git
+[submodule "KRobot_Servo"]
+	path = KRobot_Servo
+	url = https://github.com/kidelo/KRobot_Servo.git
+[submodule "KRobot_Utils"]
+	path = KRobot_Utils
+	url = https://github.com/kidelo/KRobot_Utils.git
+[submodule "KRobot_SSD1306"]
+	path = KRobot_SSD1306
+	url = https://github.com/kidelo/KRobot_SSD1306.git
+[submodule "KRobot_i2cdevlib"]
+	path = KRobot_i2cdevlib
+	url = https://github.com/kidelo/KRobot_i2cdevlib.git
+[submodule "KRobot_Arduino_Core"]
+	path = KRobot_Arduino_Core
+	url = https://github.com/kidelo/KRobot_Arduino_Core.git
