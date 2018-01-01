@@ -1,6 +1,7 @@
 [submodule "KRobot_TaskScheduler"]
 	path = KRobot_TaskScheduler
 	url = https://github.com/kidelo/KRobot_TaskScheduler.git
+	branch = rbolino_m1
 [submodule "KRobot_IRremote"]
 	path = KRobot_IRremote
 	url = https://github.com/kidelo/KRobot_IRremote.git
