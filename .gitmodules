@@ -14,6 +14,7 @@
 [submodule "KRobot_SSD1306"]
 	path = KRobot_SSD1306
 	url = https://github.com/kidelo/KRobot_SSD1306.git
+	branch = rbolino_m1
 [submodule "KRobot_i2cdevlib"]
 	path = KRobot_i2cdevlib
 	url = https://github.com/kidelo/KRobot_i2cdevlib.git
