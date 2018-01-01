@@ -4,6 +4,7 @@
 [submodule "KRobot_IRremote"]
 	path = KRobot_IRremote
 	url = https://github.com/kidelo/KRobot_IRremote.git
+	branch = rbolino_m1
 [submodule "KRobot_Servo"]
 	path = KRobot_Servo
 	url = https://github.com/kidelo/KRobot_Servo.git
