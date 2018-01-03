@@ -9,9 +9,11 @@
 [submodule "KRobot_Servo"]
 	path = KRobot_Servo
 	url = https://github.com/kidelo/KRobot_Servo.git
+	branch = rbolino_m1
 [submodule "KRobot_Utils"]
 	path = KRobot_Utils
 	url = https://github.com/kidelo/KRobot_Utils.git
+	branch = rbolino_m1
 [submodule "KRobot_SSD1306"]
 	path = KRobot_SSD1306
 	url = https://github.com/kidelo/KRobot_SSD1306.git
@@ -22,3 +24,4 @@
 [submodule "KRobot_Arduino_Core"]
 	path = KRobot_Arduino_Core
 	url = https://github.com/kidelo/KRobot_Arduino_Core.git
+	branch = rbolino_m1
